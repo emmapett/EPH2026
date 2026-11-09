@@ -1,10 +1,13 @@
-﻿---
+---
 title: "Round Table Discussion Tasks"
 ---
 
-Welcome! Please select one of the following documents:
+Welcome! 
 
-## Available documents
+Please open the link *Round Table Discussion Task*.
+
+After the session, you can refer to *Round Table Discussion Task - Plus Notes* for my own comments and some suggested reading :)
+
 
 - [Round Table Discussion Task](round_table_discussion_task.html)
 - [Round Table Discussion Task - Plus Notes](round_table_discussion_task_plus_notes.html)
