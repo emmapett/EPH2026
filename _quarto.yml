@@ -1,0 +1,7 @@
+﻿project:
+  type: website
+
+website:
+  title: "Round Table Discussion Tasks"
+  navbar:
+    title: "Round Table Discussion Tasks"
